@@ -6,7 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h4>Coba coba</h4>
+
+    <h2>Coba coba</h2>
+
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis id debitis est eos. Asperiores placeat numquam ex pariatur sed id quas consequuntur! Quam dicta delectus asperiores excepturi doloremque, nemo cum?</p>
     <ul>
         <li>satu</li>
